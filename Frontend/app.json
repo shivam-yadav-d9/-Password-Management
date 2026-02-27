@@ -13,12 +13,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-foreground.png",
+        "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#E6F4FE"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.shivam_yadav_d9.Frontend"
+      "package": "com.shivam.passwordmanager"
     },
     "web": {
       "output": "static",
@@ -45,7 +45,7 @@
     },
     "extra": {
       "router": {}
-  
+
     }
   }
 }
